@@ -1,3 +1,45 @@
+# 🏏 CricHD-S2-AutoScraper ⚡
+
+![Project Banner](https://via.placeholder.com/800x200?text=CricHD+AutoScraper)
+
+> Automated Server 2 stream links extraction from CricHD.tv
+
+[![Python Version](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://python.org)
+[![GitHub License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Auto Update](https://img.shields.io/badge/Updates-Every_20_Minutes-orange)](https://github.com/XFireFlix/CricHD-S2-AutoScraper/actions)
+[![Made in Bangladesh](https://img.shields.io/badge/Made_in-Bangladesh-%23007E3E?logo=openstreetmap)](https://en.wikipedia.org/wiki/Bangladesh)
+
+---
+
+## 📑 Table of Contents
+- [✨ Features](#-features)
+- [🚀 Quick Start](#-quick-start)
+- [🛠 Installation](#-installation)
+- [📡 Usage](#-usage)
+- [📺 Playback Guide](#-playback-guide)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [💌 Contact](#-contact)
+- [❤️ Support](#️-support)
+
+---
+
+## ✨ Features
+
+- 🔄 **Auto-updating**: Runs every 20 minutes via GitHub Actions
+- 📁 **Multiple Formats**: Generates both JSON and M3U outputs
+- ⚡ **Fast Performance**: Optimized scraping algorithm
+- 📱 **Device Compatible**: Works on Android and Android TV
+- 🧠 **Educational**: Great for learning web scraping techniques
+
+---
+
+## 🚀 Quick Start
+
+1. **Access the M3U Playlist**:
+   ```text
+   https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u
+
+
 # 🔥 CricHD-S2-AutoScraper 🔥
 
 A script that automatically scrapes Server 2 stream links from CricHD every 20 minutes
