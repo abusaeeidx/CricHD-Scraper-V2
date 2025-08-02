@@ -31,12 +31,6 @@ A script that automatically scrapes Server 2 stream links from CricHD every 20 m
 ---
 
 ## 🕹️ How To Use
-
-### ➤ For Developers
-
-Clone the repo and run locally:
-
-```bash
 git clone https://github.com/XFireFlix/CricHD-S2-AutoScraper
 cd CricHD-S2-AutoScraper
 pip install -r requirements.txt
