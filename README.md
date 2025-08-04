@@ -14,7 +14,7 @@ CricHD Scraper V2
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
-  <img src="https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square" alt="Bangladesh">
+  <img src="https://img.shields.io/badge/Auto_Update-Every_20_Minutes-green?style=flat-square" alt="Bangladesh">
   </a>
 </p>  
 
