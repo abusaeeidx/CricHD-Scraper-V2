@@ -6,9 +6,9 @@
   <br>
 CricHD AutoScraper V2
   <br>
-</h1>
-🏏 CricHD AutoScraper V2 ⚡
-<h2 align="center">Auto-updating script for CricHd Channel Links and Headers (every 20 minutes)</h2>
+</h2>
+🏏 CricHD Auto Scraper V2 ⚡
+<h3 align="center">Auto-updating script for CricHd Channel Links and Headers (every 20 minutes)</h3>
 
 <p align="center">
  
