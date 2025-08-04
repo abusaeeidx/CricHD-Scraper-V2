@@ -1,10 +1,9 @@
-# 🏏 CricHD-S2-AutoScraper ⚡
+# 🏏 CricHD AutoScraper V2 ⚡
 
 ![Project Banner](https://via.placeholder.com/800x200?text=CricHD+AutoScraper)
 
 > Automated Server 2 stream links extraction from CricHD.tv
 
-[![Python Version](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://python.org)
 [![GitHub License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Auto Update](https://img.shields.io/badge/Updates-Every_20_Minutes-orange)](https://github.com/XFireFlix/CricHD-S2-AutoScraper/actions)
 [![Made in Bangladesh](https://img.shields.io/badge/Made_in-Bangladesh-%23007E3E?logo=openstreetmap)](https://en.wikipedia.org/wiki/Bangladesh)
@@ -141,4 +140,4 @@ Your single click = big help ☕
 
 ## 🏷️ Tags
 
-`#CricHD` `#AutoScraper` `#IPTV` `#Python` `#M3U` `#Server2` `#WebScraper` `HDCric-Scraper` `CricScraper-S2` `CricHD-S2-Scraper`
+`#CricHD` `#AutoScraper` `#IPTV` `#Python` `#M3U` `#Server2` `#WebScraper` `HDCric-Scraper` `CricScraper-S2` `CricHD Scraper V2`
