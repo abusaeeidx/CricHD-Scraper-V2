@@ -135,8 +135,10 @@ Your single click = big help ☕
 - [Github](https://github.com/XFireFlix)  
 - [Telegram](https://t.me/XFireFlix)
 
+## ✉️ Contact Me
+
 ---
 
 ## 🏷️ Tags
 
-`#CricHD` `#AutoScraper` `#IPTV` `#Python` `#M3U` `#Server2` `#WebScraper`
+`#CricHD` `#AutoScraper` `#IPTV` `#Python` `#M3U` `#Server2` `#WebScraper` `HDCric-Scraper` `CricScraper-S2` `CricHD-S2-Scraper`
