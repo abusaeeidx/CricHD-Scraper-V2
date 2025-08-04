@@ -4,10 +4,9 @@
    <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
-CricHD AutoScraper V2
+CricHD Scraper V2
   <br>
 </h2>
-🏏 CricHD Auto Scraper V2 ⚡
 <h3 align="center">Auto-updating script for CricHd Channel Links and Headers (every 20 minutes)</h3>
 
 <p align="center">
