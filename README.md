@@ -15,7 +15,6 @@ CricHD Scraper V2
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
 </p>  
-![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square) 
 
 
 ---
