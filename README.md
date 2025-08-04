@@ -17,9 +17,8 @@
   </a>
 </p>
 
-> Automated Server 2 stream links extraction from CricHD.tv
-
-[![Built With Python](https://img.shields.io/badge/Built_With-Python_3.8+-blue?style=flat-square)](https://www.python.org/)  
+> Automated Server 2 stream links extraction from CricHD
+ 
 ![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square)  
 ![Made in Bangladesh 🇧🇩](https://img.shields.io/badge/Made_in-Bangladesh_🇧🇩-green?style=flat-square)
 
