@@ -21,6 +21,16 @@ CricHD Scraper V2
 
 ---
 
+## 📒 Introduction
+
+**⚡ CricHD-S2-AutoScraper** is a smart and lightweight Python script that automatically fetches Server 2 stream links from the CricHD website and generates both `.json` and `.m3u` outputs.
+
+⏱️ The data is auto-updated every **20 minutes** using GitHub Actions.
+
+🎯 Perfect for creating live channel playlists and testing IPTV scraping techniques.
+
+> ⚠️ This tool is strictly for **educational and research** purposes only. Please comply with your local laws.
+---
 
 ## 📑 Table of Contents
 - [✨ Features](#-features)
@@ -57,38 +67,13 @@ A script that automatically scrapes Server 2 stream links from CricHD every 20 m
 
 
 ---
-
-## 📒 Introduction
-
-**⚡ CricHD-S2-AutoScraper** is a smart and lightweight Python script that automatically fetches Server 2 stream links from the CricHD website and generates both `.json` and `.m3u` outputs.
-
-⏱️ The data is auto-updated every **20 minutes** using GitHub Actions.
-
-🎯 Perfect for creating live channel playlists and testing IPTV scraping techniques.
-
-> ⚠️ This tool is strictly for **educational and research** purposes only. Please comply with your local laws.
-
----
-
-## 💥 Key Features
-
-- 🔄 Auto-updates every 20 minutes via GitHub Actions  
-- 🔎 Extracts live streaming links from **Server 2**  
-- 🧾 Outputs both `.json` and `.m3u` playlist files  
-- ⚡ Fast and minimal dependencies  
-- 📁 Ideal for learning about web scraping and streaming link parsing  
-
----
-
 ## 🕹️ How To Use
 git clone https://github.com/XFireFlix/CricHD-S2-AutoScraper
 cd CricHD-S2-AutoScraper
 pip install -r requirements.txt
 python scraper.py
 
-## 🎬 How to Play
-
-### 📱 Android
+## 📱 Android
 
 Use Network Stream Player
 
