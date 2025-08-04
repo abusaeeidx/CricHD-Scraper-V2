@@ -4,7 +4,7 @@
    <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
-<b>CricHD AutoScraper V2</b>
+CricHD AutoScraper V2
   <br>
 </h1>
 🏏 CricHD AutoScraper V2 ⚡
@@ -15,12 +15,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
-</p>
-
-> Automated Server 2 stream links extraction from CricHD
- 
-![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square)  
-![Made in Bangladesh 🇧🇩](https://img.shields.io/badge/Made_in-Bangladesh_🇧🇩-green?style=flat-square)
+</p>  
+![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square) 
 
 
 ---
