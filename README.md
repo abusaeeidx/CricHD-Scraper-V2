@@ -1,5 +1,21 @@
+<h1 align="center">
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.nex.tsports">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
+  </a>
+  <br>
+<b>CricHD AutoScraper V2⚡</b>
+  <br>
+</h1>
 # 🏏 CricHD AutoScraper V2 ⚡
+<h2 align="center">Auto-updating script for T Sports App Channel Links and Headers (every 30 minutes)</h2>
 
+<p align="center">
+ 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
+  </a>
+</p>
 ![Project Banner](https://via.placeholder.com/800x200?text=CricHD+AutoScraper)
 
 > Automated Server 2 stream links extraction from CricHD.tv
@@ -8,7 +24,9 @@
 ![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square)  
 ![Made in Bangladesh 🇧🇩](https://img.shields.io/badge/Made_in-Bangladesh_🇧🇩-green?style=flat-square)
 
+
 ---
+
 
 ## 📑 Table of Contents
 - [✨ Features](#-features)
