@@ -60,12 +60,6 @@ CricHD Scraper V2
    ```text
    https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u
 
-
-# 🔥 CricHD-S2-AutoScraper 🔥
-
-A script that automatically scrapes Server 2 stream links from CricHD every 20 minutes
-
-
 ---
 ## 🕹️ How To Use
 git clone https://github.com/XFireFlix/CricHD-S2-AutoScraper
@@ -127,8 +121,6 @@ Your single click = big help ☕
 
 - [Github](https://github.com/XFireFlix)  
 - [Telegram](https://t.me/XFireFlix)
-
-## ✉️ Contact Me
 
 ---
 
