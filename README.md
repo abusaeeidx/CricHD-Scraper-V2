@@ -4,9 +4,9 @@
 
 > Automated Server 2 stream links extraction from CricHD.tv
 
-[![GitHub License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Auto Update](https://img.shields.io/badge/Updates-Every_20_Minutes-orange)](https://github.com/XFireFlix/CricHD-S2-AutoScraper/actions)
-[![Made in Bangladesh](https://img.shields.io/badge/Made_in-Bangladesh-%23007E3E?logo=openstreetmap)](https://en.wikipedia.org/wiki/Bangladesh)
+[![Built With Python](https://img.shields.io/badge/Built_With-Python_3.8+-blue?style=flat-square)](https://www.python.org/)  
+![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square)  
+![Made in Bangladesh 🇧🇩](https://img.shields.io/badge/Made_in-Bangladesh_🇧🇩-green?style=flat-square)
 
 ---
 
@@ -43,9 +43,6 @@
 
 A script that automatically scrapes Server 2 stream links from CricHD every 20 minutes
 
-[![Built With Python](https://img.shields.io/badge/Built_With-Python_3.8+-blue?style=flat-square)](https://www.python.org/)  
-![Auto Update Every 20 Minutes](https://img.shields.io/badge/Auto_Update-Every_20_Minutes-brightgreen?style=flat-square)  
-![Made in Bangladesh 🇧🇩](https://img.shields.io/badge/Made_in-Bangladesh_🇧🇩-green?style=flat-square)
 
 ---
 
