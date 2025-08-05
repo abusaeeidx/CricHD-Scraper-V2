@@ -7,14 +7,14 @@
 CricHD Scraper V2
   <br>
 </h2>
-<h3 align="center">Auto-updating script for CricHd Channel Links and Headers (every 20 minutes)</h3>
+<h3 align="center">Auto-updating script for CricHd Channel Links and Headers (every 30 minutes)</h3>
 
 <p align="center">
  
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
-  <img src="https://img.shields.io/badge/Auto_Update-Every_20_Minutes-blue?style=flat-square" alt="Bangladesh">
+  <img src="https://img.shields.io/badge/Auto_Update-Every_30_Minutes-blue?style=flat-square" alt="Bangladesh">
   </a>
 </p>  
 
@@ -25,13 +25,18 @@ CricHD Scraper V2
 
 **⚡ CricHD-S2-AutoScraper** is a smart and lightweight Python script that automatically fetches Server 2 stream links from the CricHD website and generates both `.json` and `.m3u` outputs.
 
-⏱️ The data is auto-updated every **20 minutes** using GitHub Actions.
+⏱️ The data is auto-updated every **30 minutes** using GitHub Actions.
 
 🎯 Perfect for creating live channel playlists and testing IPTV scraping techniques.
 
 > ⚠️ This tool is strictly for **educational and research** purposes only. Please comply with your local laws.
 ---
+## 🚀 Quick Start
 
+1. **Access the M3U Playlist**:
+   ```text
+   https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u
+---
 ## 📑 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
@@ -52,13 +57,6 @@ CricHD Scraper V2
 - 📱 **Device Compatible**: Works on Android and Android TV
 - 🧠 **Educational**: Great for learning web scraping techniques
 
----
-
-## 🚀 Quick Start
-
-1. **Access the M3U Playlist**:
-   ```text
-   https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u
 
 ---
 ## 🕹️ How To Use
@@ -107,13 +105,9 @@ Respect copyrights.
 
 ## ❤️ Support This Project
 
-### 🎁 Donate (Free Support)
-
 Your single click = big help ☕
 
 [✨ Click here to support by clicking ✨](https://xfireflix.github.io/support/)
-
-✅ 100% Free | ❌ No Payment | 🖱️ Just Click
 
 ---
 
