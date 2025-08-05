@@ -1,16 +1,16 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-08-06 04:18:48 (BD Time)
+# Update on 2025-08-06 04:46:15 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTINF:-1 tvg-id="skysp2" tvg-name="GTV" tvg-logo="https://example.com/gtv.png" group-title="CricHD",GTV
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://dkm.dlolcast.com:8099/hls/skyscric3.m3u8?md6=ORQ_SC0-EaYvpbKmIMn1aQ&expires=1754436639|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://dkm.dlolcast.com:8099/hls/skyscric3.m3u8?md6=Mee4cuReT82HGcfbJ4bflg&expires=1754438285|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports" tvg-logo="https://example.com/ts.png" group-title="CricHD",T Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://dkm.dlolcast.com:8099/hls/bdgtv.m3u8?md6=1oJzBmPiOYyzH2Bm5hlkfw&expires=1754436640|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://dkm.dlolcast.com:8099/hls/bdgtv.m3u8?md6=0aE2wGemADC3pSjxaubn1A&expires=1754438287|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
