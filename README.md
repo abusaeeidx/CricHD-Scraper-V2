@@ -41,7 +41,7 @@ CricHD Scraper V2
 
 1. **Access the M3U Playlist**:
    ```text
-   https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u
+   https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/main/playlist.m3u
 ---
 ## 📑 Table of Contents
 - [✨ Features](#-features)
@@ -65,25 +65,20 @@ CricHD Scraper V2
 
 
 ---
-## 🕹️ How To Use
-git clone https://github.com/XFireFlix/CricHD-S2-AutoScraper
-cd CricHD-S2-AutoScraper
-pip install -r requirements.txt
-python scraper.py
-
+## 🕹️ How To Use 
 ## 📱 Android
 
 Use Network Stream Player
 
 Add this Playlist:  
-👉 [https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u](https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u)
+👉 [https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/main/playlist.m3u](https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/main/playlist.m3u)
 
 ### 🖥️ Android TV
 
 Use OTT Navigator
 
 Add this Playlist:  
-👉 [https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u](https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u)
+👉 [https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/main/playlist.m3u](https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/main/playlist.m3u)
 
 Enjoy 😊
 
@@ -91,7 +86,7 @@ Enjoy 😊
 
 ## 🚬 Credits
 
-Made by XFireFlix
+Made by Abu Saeeidx
 
 ---
 
@@ -119,7 +114,7 @@ Your single click = big help ☕
 
 ## ✉️ Contact Me
 
-- [Github](https://github.com/XFireFlix)  
+- [Github](https://github.com/abusaeeidx)  
 - [Telegram](https://t.me/XFireFlix)
 
 ---
