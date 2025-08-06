@@ -23,7 +23,7 @@ CricHD Scraper V2
 <h1 align="center">
   <br>
   
-   <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 T Sports 🔥" width="80%">
+   <img src="https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/refs/heads/main/img/banner1.jpg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
 
