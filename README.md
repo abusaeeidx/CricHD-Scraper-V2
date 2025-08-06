@@ -23,7 +23,7 @@ CricHD Scraper V2
 <h1 align="center">
   <br>
   
-   <img src="https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/refs/heads/main/img/banner1.jpg" alt="🔥 T Sports 🔥" width="80%">
+   <img src="https://raw.githubusercontent.com/abusaeeidx/CricHD-Scraper-V2/refs/heads/main/img/bn.jpg" alt="🔥 T Sports 🔥" width="80%">
   </a>
   <br>
 
@@ -46,9 +46,7 @@ CricHD Scraper V2
 ## 📑 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
-- [🛠 Installation](#-installation)
-- [📡 Usage](#-usage)
-- [📺 Playback Guide](#-playback-guide)
+- [📺 Playback Guide](#-How-To-Use)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [💌 Contact](#-contact)
 - [❤️ Support](#️-support)
