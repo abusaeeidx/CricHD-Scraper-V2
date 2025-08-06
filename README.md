@@ -29,7 +29,7 @@ CricHD Scraper V2
 
 ## 📒 Introduction
 
-**⚡ CricHD-S2-AutoScraper** is a smart and lightweight Python script that automatically fetches Server 2 stream links from the CricHD website and generates both `.json` and `.m3u` outputs.
+**⚡ CricHD-S2(v2.0) AutoScraper** is a smart and lightweight script that automatically fetches Server 2 stream links from the CricHD and generates `.m3u` outputs.
 
 ⏱️ The data is auto-updated every **30 minutes** using GitHub Actions.
 
