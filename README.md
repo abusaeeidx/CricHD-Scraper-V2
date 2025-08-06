@@ -37,7 +37,7 @@ CricHD Scraper V2
 
 > ⚠️ This tool is strictly for **educational and research** purposes only. Please comply with your local laws.
 ---
-## 🚀 Quick Start
+## 🚀 Quick Access Playlist
 
 1. **Access the M3U Playlist**:
    ```text
@@ -45,11 +45,11 @@ CricHD Scraper V2
 ---
 ## 📑 Table of Contents
 - [✨ Features](#-features)
-- [🚀 Quick Start](#-quick-start)
+- [🚀 Quick Start](#-Quick-Access-Playlist)
 - [📺 Playback Guide](#-How-To-Use)
-- [⚠️ Disclaimer](#️-disclaimer)
-- [💌 Contact](#-contact)
-- [❤️ Support](#️-support)
+- [⚠️ Disclaimer](#️-Disclaimer)
+- [💌 Contact](#-Contact)
+- [❤️ Support](#️-support-this-project)
 
 ---
 
@@ -110,7 +110,7 @@ Your single click = big help ☕
 
 ---
 
-## ✉️ Contact Me
+## ✉️ Contact
 
 - [Github](https://github.com/abusaeeidx)  
 - [Telegram](https://t.me/XFireFlix)
