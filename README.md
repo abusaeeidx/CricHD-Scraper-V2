@@ -106,7 +106,7 @@ Respect copyrights.
 
 Your single click = big help ☕
 
-[✨ Click here to support by clicking ✨](https://abusaeeidx.github.io/support/)
+[✨ Click here to support by clicking ✨](https://abusaeeidx.github.io/Support/)
 
 ---
 
