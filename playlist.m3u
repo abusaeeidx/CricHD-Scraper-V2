@@ -1,196 +1,196 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-09-04 10:40:51 (BD Time)
+# Update on 2025-09-04 11:15:15 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTINF:-1 tvg-id="skysp2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=-YTg-I9eW9NbfmTewVlrLg&expires=1756965161|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=mQIjsQzjesZYLJk-WjJX_A&expires=1756967225|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="CricHD",T Sports BD
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/bdgtv.m3u8?md6=okuh2i1mRJM8BnLsPc2NcQ&expires=1756965162|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/bdgtv.m3u8?md6=pjS7sJ5zW90OeW_rekX1eA&expires=1756967226|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD",Willow
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/willowuse.m3u8?md6=DXahqLOM8k0UbZsWcROChw&expires=1756965163|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/willowuse.m3u8?md6=RAtGodS9Q1yq6KO7LG7VEw&expires=1756967227|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="CricHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=_VQsggRr4oyxJBHnCbNajQ&expires=1756965165|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=teUxe07465uqYnEQdd-2tA&expires=1756967228|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="CricHD",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=8mfPsbebhwCXX4Ld0Jh7fg&expires=1756965166|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=HtgK9m6CY3gr6rnZNCgVkQ&expires=1756967229|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="CricHD",Star Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/star2in.m3u8?md6=pGLHmOCN267i52nwhxHKdw&expires=1756965167|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/star2in.m3u8?md6=6hSOhwbv08JNi2yOzWFpsw&expires=1756967230|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp3" tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="CricHD",Star Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/star1hi.m3u8?md6=LLHmcsLjZJou9sb-GL9biA&expires=1756965169|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/star1hi.m3u8?md6=1dgg-BF_zBRhHTOe4T3SUg&expires=1756967231|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ptvsp" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="CricHD",PTV Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=RSL-EFY7UupxWZVqe_FYow&expires=1756965170|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=LVeOoqztqOKUNE_F7ZeFpw&expires=1756967231|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="CricHD",A Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/asportiso.m3u8?md6=U4ARZa9xG3jHevsjlOM8Ng&expires=1756965171|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/asportiso.m3u8?md6=piP-1iw6Z-G7kb7n2cbkFw&expires=1756967232|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="tensp" tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="CricHD",Ten Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/tenspk.m3u8?md6=moIE5s7kSss4NBGgOQ9FBg&expires=1756965172|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/tenspk.m3u8?md6=nv5epECY--SrhL6QZHiAXQ&expires=1756967233|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="geosuper" tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="CricHD",Geo Super
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/geosp.m3u8?md6=bO0IgKQCefHL2G-Ovf_bIg&expires=1756965173|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/geosp.m3u8?md6=-W4vZQttjMKH_lmCOnMORw&expires=1756967234|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="astrocric" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="CricHD",Astro Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/astrocric.m3u8?md6=UbAmJsO4t53kgRZ3p0iFnQ&expires=1756965174|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/astrocric.m3u8?md6=W1GHd868wlSTcpSq6KPfXg&expires=1756967235|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp1" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="CricHD",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=nbJ8pxq2shTxxWOk00OlwA&expires=1756965175|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=PgouRjez60rEwdo7u7O1wg&expires=1756967236|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyfb" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="CricHD",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=kjelnMNEjshW0TCh5aTdTQ&expires=1756965177|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=9PAf724QcqZvQt-lCmJiXA&expires=1756967237|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyarena" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="CricHD",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=JGCdOspcWvs35IPAQH2u3g&expires=1756965178|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=UI4y-9UAJGy_wj9iR0SRDw&expires=1756967238|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp3" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="CricHD",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skysact.m3u8?md6=BE0HR4OQJG4oWmBkgKJAIA&expires=1756965179|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skysact.m3u8?md6=-X0zhXLP-bSkA-rU5HkXwQ&expires=1756967239|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp4" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="CricHD",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skysgol.m3u8?md6=tfU-4NmiM9VPHKOnlfhr3g&expires=1756965180|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skysgol.m3u8?md6=BgWaPG3r-aHLOZGciD-THQ&expires=1756967240|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp5" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="CricHD",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=6wXMNxr-Qf5fooo5dyNW8w&expires=1756965181|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=zVZ8cE6J0iQaJ0jZxfFw2Q&expires=1756967241|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyspf1" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="CricHD",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=eRmKhf2cPXiygqYqkvecbQ&expires=1756965182|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=p5ZoPjExzh500rIcGQ3FHQ&expires=1756967241|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skymix" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="CricHD",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skysmixx.m3u8?md6=1F6PiEey0CtYsfdVel07fQ&expires=1756965183|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skysmixx.m3u8?md6=mu6GFgnB9kqhwTN8xHsrzw&expires=1756967242|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyten" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="CricHD",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/skyten.m3u8?md6=TrbQsxIq9JJ26VLefav1XQ&expires=1756965184|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/skyten.m3u8?md6=mgcKonZwvKnL4e-Jd0iD-g&expires=1756967243|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="osncric" tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="CricHD",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/super2cric.m3u8?md6=BBGXdRsHxuvjEcQ_vkSDZw&expires=1756965186|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/super2cric.m3u8?md6=dkE2rKnR7TWazdPMtLsyew&expires=1756967244|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp9" tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="CricHD",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/superprem.m3u8?md6=UxuFJ0tPAzAvAl3RetEXOA&expires=1756965187|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/superprem.m3u8?md6=tL7qsW4pGP4hXZi4FmS4MQ&expires=1756967245|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp10" tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="CricHD",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/dasdadaskasdlaliga.m3u8?md6=uA1aU68Cqo69ZqIrzIjsQQ&expires=1756965188|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/dasdadaskasdlaliga.m3u8?md6=MLmhSXqfzEhz5nuEmh78cQ&expires=1756967246|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp8" tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="CricHD",SuperSport Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/superspfb.m3u8?md6=-ndB5yNfMyuBsPs1iwb6gA&expires=1756965189|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/superspfb.m3u8?md6=VZxVNYdUnk0MzqlkF_4FTQ&expires=1756967247|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp3" tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="CricHD",SuperSport Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/superspaction.m3u8?md6=U7HgMt2UZOky1uq-o9Pzrw&expires=1756965190|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/superspaction.m3u8?md6=t6SzkzbaRQZIAy6v4W0J5g&expires=1756967247|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp6" tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="CricHD",SuperSport GrandStand
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/supergs.m3u8?md6=5-FTP0WX-f6gHrp7Vcj45Q&expires=1756965191|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/supergs.m3u8?md6=yjMtof3LP8nNI85x1OE16g&expires=1756967248|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=vCf7Tf3MW4uQJHwpBnB_BQ&expires=1756965192|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=wnE0QLYSBCYQBe914GvetA&expires=1756967249|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp2" tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="CricHD",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=I6JGdeS87O5Lmv0cdAc-6Q&expires=1756965193|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=APfGSvy1tEd_jkNgATM8hQ&expires=1756967250|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp3" tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="CricHD",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=GuC2xYNQwN_Wu39DkuLiYA&expires=1756965194|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=cqEejJT2SpEO-rDqBNt0Wg&expires=1756967251|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btespn" tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="CricHD",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/basdbkklltadsnbpgh4io9.m3u8?md6=S-97EZpHqvGt8zDPugDA2Q&expires=1756965195|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/basdbkklltadsnbpgh4io9.m3u8?md6=rBPmz7Zg2AfD-K70AxTClA&expires=1756967252|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ten1" tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="CricHD",Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/ten1endia.m3u8?md6=SrMVwmBYfxFHDmP9iHcPtw&expires=1756965196|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/ten1endia.m3u8?md6=lYkx9MtTyD6ERo1IP87dUg&expires=1756967252|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife1" tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/criclife1.m3u8?md6=bq6GETsr-SY55gu-tVGlFA&expires=1756965197|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/criclife1.m3u8?md6=0d2YL1DiL2MpfDP4dZKMLQ&expires=1756967253|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife2" tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/criclife2.m3u8?md6=unlMhfEeZsddaKRHf_vl_A&expires=1756965198|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/criclife2.m3u8?md6=RW2DAGNZCB45aLRKnxabUQ&expires=1756967254|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp1" tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="CricHD",Eurosport 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/eurosp1.m3u8?md6=2i4cyXRvsMhR6RjafQ7IBQ&expires=1756965199|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/eurosp1.m3u8?md6=AqA0HOz2rq1ymoIF7wm0pQ&expires=1756967255|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp2" tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="CricHD",Eurosport 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/eurosp2.m3u8?md6=ffGiIeciFHEuaaacjsJ9bw&expires=1756965201|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/eurosp2.m3u8?md6=v4ptt9oFX6-WCwU6izmMZg&expires=1756967256|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/viaplaysp1.m3u8?md6=fKjymcCBDMnbtWvd3u_qEw&expires=1756965202|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/viaplaysp1.m3u8?md6=V6RHj7Yl7KlM2-vPU7FpdA&expires=1756967257|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="CricHD",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=85pOZqjS9V0kzGu7fuoOkA&expires=1756965203|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=D3o3jS9bJJ8MeyvPl9wsdw&expires=1756967258|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
