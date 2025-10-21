@@ -1,186 +1,206 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-10-21 12:53:55 (BD Time)
+# Update on 2025-10-21 13:12:35 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="Cricket Tv",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/skyscric3.m3u8?md6=VW4hNvIPqb2nn8IqWO45vg&expires=1761034040
+https://bc-2.player0003.com:8099/hls/skyscric3.m3u8?md6=L-8njeXCDpExiDBi2s7mYQ&expires=1761035159
 
 #EXTINF:-1 tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="Cricket Tv",T Sports BD
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/t_sportsbd.m3u8?md6=mNBoiakafL9SbBlhQk8AUw&expires=1761034046
+https://bc-2.player0003.com:8099/hls/t_sportsbd.m3u8?md6=pD7Y7Xp-Xs_SPNn8HGMFdg&expires=1761035165
 
 #EXTINF:-1 tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="Cricket Tv",Willow
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/willow_us.m3u8?md6=xPmHSgTi9I9Yw9Px98G1EQ&expires=1761034052
+https://bc-2.player0003.com:8099/hls/willow_us.m3u8?md6=iZR6GHVVh2cvTA27eRdT_A&expires=1761035171
 
 #EXTINF:-1 tvg-name="Willow Xtra" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willowextra.png" group-title="Cricket Tv",Willow Xtra
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/willow_2.m3u8?md6=wfTJP4utgTbOpt4X-8RgSA&expires=1761034058
+https://bc-2.player0003.com:8099/hls/willow_2.m3u8?md6=iVUpNJYpezqziORKs7du6w&expires=1761035177
 
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="Cricket Tv",Star Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/starsp_1in.m3u8?md6=dMXF7fr8JBy3NfHReTVdiA&expires=1761034063
+https://bc-2.player0003.com:8099/hls/starsp_1in.m3u8?md6=hIO539W24rlJOiZ72hc_iA&expires=1761035183
 
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="Cricket Tv",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/starsp_1hin.m3u8?md6=cfW3BX8EIYLDz1uS-ud-qw&expires=1761034069
+https://bc-2.player0003.com:8099/hls/starsp_1hin.m3u8?md6=7v6MqrFNye6ZpuOMaeP0rw&expires=1761035189
 
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="Cricket Tv",Star Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/starsp_2in.m3u8?md6=bpCDLER36MMhAdCqjZtCdQ&expires=1761034074
+https://bc-2.player0003.com:8099/hls/starsp_2in.m3u8?md6=A3ZVyEGfYY0sZaJ59qwsow&expires=1761035195
 
 #EXTINF:-1 tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="Cricket Tv",Star Sports 3
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/starsp_1hin.m3u8?md6=PPgkKWrM-_izJkwDgRNtVw&expires=1761034080
+https://bc-2.player0003.com:8099/hls/starsp_1hin.m3u8?md6=xGI_4lvur9Gy74GrOWWhtw&expires=1761035201
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="Cricket Tv",PTV Sports
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/ptv_paki.m3u8?md6=IGSdvws8NTTc36Y_JUcFVQ&expires=1761034085
+https://bc-2.player0003.com:8099/hls/ptv_paki.m3u8?md6=q8GCneyBR0vp-oS-tHbuJg&expires=1761035207
 
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="Cricket Tv",A Sports
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/asportiso.m3u8?md6=hfOssjPGcK4C9Yx67wyqOw&expires=1761034091
+https://bc-2.player0003.com:8099/hls/asportiso.m3u8?md6=epFtsYiWoJ68y_mepUcSDw&expires=1761035213
 
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="Cricket Tv",Ten Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/tenspk.m3u8?md6=4qcBHCWJfyOogGl1j90fhQ&expires=1761034097
+https://bc-2.player0003.com:8099/hls/tenspk.m3u8?md6=OTo_J7StZ_7vTYY3kym49g&expires=1761035219
 
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="Cricket Tv",Geo Super
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/geosp.m3u8?md6=bUs8K9YJTPT_iwNoNvvvyw&expires=1761034102
+https://bc-2.player0003.com:8099/hls/geosp.m3u8?md6=tarEQZvp76xXC3BpGBYrpA&expires=1761035225
 
 #EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="Cricket Tv",Astro Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/astrocric.m3u8?md6=Ad22iAR02QHazbAv4KOqXA&expires=1761034108
+https://bc-2.player0003.com:8099/hls/astrocric.m3u8?md6=EB6YakMKJqlGqRaGXKHDAA&expires=1761035231
 
 #EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/fox501.png" group-title="Cricket Tv",Fox Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/fox501.m3u8?md6=wH02w-e-a4wRETGJxrARUA&expires=1761034114
+https://bc-2.player0003.com:8099/hls/fox501.m3u8?md6=x_iV3EMwJkuPySHGjtujcA&expires=1761035238
 
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="Cricket Tv",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=KAI-_TbPojyhhzI7p0wZBQ&expires=1761034119
+https://bc-2.player0003.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=XTVmB66h8Q16UHx7kJhEyw&expires=1761035244
 
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="Cricket Tv",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=dEaDjfQsuLee8r5dEGoPlw&expires=1761034125
+https://bc-2.player0003.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=CB-MiouX626LBOjUwKQBNQ&expires=1761035250
 
 #EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="Cricket Tv",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=Su4fNRkrTxhReLxdGlPhdA&expires=1761034130
+https://bc-2.player0003.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=FKkC2f7eQ4HEDhVcUYn06g&expires=1761035256
 
 #EXTINF:-1 tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="Cricket Tv",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/skysact.m3u8?md6=vkWpMjzwaQNOby0QmirWEw&expires=1761034136
+https://bc-2.player0003.com:8099/hls/skysact.m3u8?md6=c_Q_blhs6cGWGnFlJFaTdA&expires=1761035262
 
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="Cricket Tv",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/skysgol.m3u8?md6=aGgxCzGPYiq2POyM-8Gm9g&expires=1761034142
+https://bc-2.player0003.com:8099/hls/skysgol.m3u8?md6=ptjVngDGKz_wsf1T9uefwQ&expires=1761035267
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="Cricket Tv",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/skypremol.m3u8?md6=50tY5KWjSRHyDbeypg6HdA&expires=1761034148
+https://bc-2.player0003.com:8099/hls/skypremol.m3u8?md6=tFWZk182Z9U0RNitgk_wJA&expires=1761035273
 
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="Cricket Tv",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=G5gmZU1j5nL20PbS_flpgQ&expires=1761034153
+https://bc-2.player0003.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=jk3UapizghVSmq0HLWB_3g&expires=1761035279
 
 #EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="Cricket Tv",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/skysmixx.m3u8?md6=mQJJ5bBNK1gDyUbxSV9esQ&expires=1761034158
+https://bc-2.player0003.com:8099/hls/skysmixx.m3u8?md6=WZgFXsQFTqZoj95RsKa5hA&expires=1761035285
+
+#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="Cricket Tv",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://dostplay.pro/
+#EXTVLCOPT:http-origin=https://dostplay.pro
+https://bc-2.player0003.com:8099/hls/skyten.m3u8?md6=296-RaZo20qUHREOyayqPg&expires=1761035291
+
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="Cricket Tv",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://dostplay.pro/
+#EXTVLCOPT:http-origin=https://dostplay.pro
+https://bc-2.player0003.com:8099/hls/super2cric.m3u8?md6=pqYCZxT2CPyX9HsYotmI7A&expires=1761035297
+
+#EXTINF:-1 tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="Cricket Tv",SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://dostplay.pro/
+#EXTVLCOPT:http-origin=https://dostplay.pro
+https://bc-2.player0003.com:8099/hls/superprem.m3u8?md6=5oAmmgcJZ6eaDmx-igwu3A&expires=1761035303
 
 #EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="Cricket Tv",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=WmabGYpQ1wX3xGJQUvnZRA&expires=1761034180
+https://bc-2.player0003.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=zxKXYIdDI1AYyRgbfV83HA&expires=1761035309
+
+#EXTINF:-1 tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="Cricket Tv",SuperSport Football
+#EXTVLCOPT:http-referrer=https://dostplay.pro/
+#EXTVLCOPT:http-origin=https://dostplay.pro
+https://bc-2.player0003.com:8099/hls/superspfb.m3u8?md6=CJtGb-UH4o-SoLcbyK23dQ&expires=1761035315
 
 #EXTINF:-1 tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="Cricket Tv",SuperSport Action
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/superspaction.m3u8?md6=2MS93PVkYpPVIZ9tkR3kJQ&expires=1761034192
+https://bc-2.player0003.com:8099/hls/superspaction.m3u8?md6=-VstGjx_w3vUiT1MR7_yhQ&expires=1761035321
 
 #EXTINF:-1 tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="Cricket Tv",SuperSport GrandStand
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/supergs.m3u8?md6=timwiQ_TH3m_SNu8ak4jxw&expires=1761034200
+https://bc-2.player0003.com:8099/hls/supergs.m3u8?md6=RhTHi9tnnZzvGv-nOhJa4w&expires=1761035327
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="Cricket Tv",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=hp6gsg0VP6or4kZhCZ7LgA&expires=1761034206
+https://bc-2.player0003.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=dmgXEMaa3A9c9mW29Lmwgg&expires=1761035333
 
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="Cricket Tv",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=7i00q4KsT7vyKm3cP6UvVA&expires=1761034212
+https://bc-2.player0003.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=WfEFcu3r09R5W_vy4a-x9w&expires=1761035339
 
 #EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="Cricket Tv",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=FPeRFFst7wKtg2FUMHlMzA&expires=1761034218
+https://bc-2.player0003.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=gtYo2qAcul9iwjjAMX-vIA&expires=1761035345
 
 #EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="Cricket Tv",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=Oo6QMxztKIvQ_Bb4Tm8FUQ&expires=1761034223
+https://bc-2.player0003.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=TaskVD-sderivzWX2jcIOw&expires=1761035351
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="Cricket Tv",Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/ten_1sd.m3u8?md6=qMc3J3vLGZU9xMjBX51Nag&expires=1761034229
+https://bc-2.player0003.com:8099/hls/ten_1sd.m3u8?md6=cFmsFEeu8Fj6Q0jGXYyILA&expires=1761035357
 
 #EXTINF:-1 tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="Cricket Tv",CricLife 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/criclife1.m3u8?md6=ypW2USAwIiPM9qXejF0YCg&expires=1761034235
+https://bc-2.player0003.com:8099/hls/criclife1.m3u8?md6=2DCMGxKaIW0MnpOhKA_zow&expires=1761035363
 
 #EXTINF:-1 tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="Cricket Tv",CricLife 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/criclife2.m3u8?md6=NNb34xiZCRpNj0DFcnbrCw&expires=1761034241
+https://bc-2.player0003.com:8099/hls/criclife2.m3u8?md6=6crNwwOT3sL-lK4kl8gcuw&expires=1761035369
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="Cricket Tv",Eurosport 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/eurosp1.m3u8?md6=LDGU82JaBoDs1kET4oUxLA&expires=1761034246
+https://bc-2.player0003.com:8099/hls/eurosp1.m3u8?md6=hqadK9Nqj-8rZv1mCXrQ0w&expires=1761035375
 
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="Cricket Tv",Eurosport 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/eurosp2.m3u8?md6=2x4sx-2NaL_pIvrq29Chkg&expires=1761034252
+https://bc-2.player0003.com:8099/hls/eurosp2.m3u8?md6=uMJ3n-aZXJetqMQdr6EdRw&expires=1761035381
 
 #EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="Cricket Tv",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/viaplaysp1.m3u8?md6=9UfsfbHN2tJzwp3uxLc7GA&expires=1761034258
+https://bc-2.player0003.com:8099/hls/viaplaysp1.m3u8?md6=8bEtfzrpxtjFiXEPewATBA&expires=1761035387
 
 #EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="Cricket Tv",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
-https://bc-2.player0003.com:8099/hls/viaplaysp2.m3u8?md6=Ql-4iakKsbotW0jXvLMUIg&expires=1761034264
+https://bc-2.player0003.com:8099/hls/viaplaysp2.m3u8?md6=aFn8MTdy1YKX5z6N7TUSLQ&expires=1761035393
 
