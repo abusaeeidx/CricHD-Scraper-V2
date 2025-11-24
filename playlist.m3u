@@ -1,206 +1,206 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-11-24 16:19:57 (BD Time)
+# Update on 2025-11-24 16:51:34 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD-v2",Sky Sports Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadosky2.m3u8?md6=_u0_4YeORoRs-BX88txvzg&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadosky2.m3u8?md6=kuMKRCf7KdMoxJowuzl8UQ&expires=1763986296&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="CricHD-v2",T Sports BD
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/t_sportsbd.m3u8?md6=Ms2yyN-9giFdePpccDzweA&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/t_sportsbd.m3u8?md6=F8DZBBlnOxQjmlKZdw1NRA&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD-v2",Willow
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/suswil.m3u8?md6=UvldPRRQMzqVFsYJZa3LMQ&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/suswil.m3u8?md6=KyzZkVWmCjnju2vB5An4lw&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="willowextra" tvg-name="Willow Xtra" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willowextra.png" group-title="CricHD-v2",Willow Xtra
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/suswilc.m3u8?md6=PYPRF-vEvqtHuyqQfUHt9w&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/suswilc.m3u8?md6=cSv7uOwEbxT7yvvZXb0NFw&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="CricHD-v2",Star Sports 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/starsp_1in.m3u8?md6=gC2RNjTsHnsyN8cNf4QnmA&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/starsp_1in.m3u8?md6=ej0RAao-4G6srBGEHI2bYw&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="starsp3" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="CricHD-v2",Star Sports 1 Hindi
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/starhindi.m3u8?md6=sUr1aAeOQwseD5-MBmB_wA&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/starhindi.m3u8?md6=bQVvO9yeZqNe2XQNgZdCYw&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="CricHD-v2",Star Sports 2
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/star2en.m3u8?md6=4D-p4H45LB3Hb6RyV-q5cA&expires=1763984400&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/star2en.m3u8?md6=Gf4X0naPEI5UPF0nQTFbSA&expires=1763986296&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="starsp3" tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="CricHD-v2",Star Sports 3
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/starhindi.m3u8?md6=sUr1aAeOQwseD5-MBmB_wA&expires=1763984399&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/starhindi.m3u8?md6=bQVvO9yeZqNe2XQNgZdCYw&expires=1763986295&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="ptvsp" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="CricHD-v2",PTV Sports
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/ptvpaki.m3u8?md6=MZs6x5J_Jv9ihdcy7-wG1g&expires=1763984400&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/ptvpaki.m3u8?md6=0Ifb4aENjssJJbqDhgLaZg&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="CricHD-v2",A Sports
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/asportsd.m3u8?md6=d57LDhO6tUEHl4nN6lXBOg&expires=1763984400&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/asportsd.m3u8?md6=ovLa4uN7gWGTRlLZXI6Nbg&expires=1763986296&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="tensp" tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="CricHD-v2",Ten Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/tenspk.m3u8?md6=8K1RBunjorLvK0WWoODpqg&expires=1763984400&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/tenspk.m3u8?md6=mcCWnNsPBn509ZOEn728Ag&expires=1763986296&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="geosuper" tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="CricHD-v2",Geo Super
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/geosp.m3u8?md6=uip5wPh2NCvQ8qf5B1sf8g&expires=1763984400&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/geosp.m3u8?md6=0naRRX74LBOsJEb4gVUxow&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="astrocric" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="CricHD-v2",Astro Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/astrocric.m3u8?md6=mF4BG5VLVuOXmeaNdZOG9Q&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/astrocric.m3u8?md6=Q2VwzmwgYSgumVEkGKcpBA&expires=1763986296&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="fox501" tvg-name="Fox Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/fox501.png" group-title="CricHD-v2",Fox Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/cofx01.m3u8?md6=1k0SGIicEg5haGXWYQLXnQ&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/cofx01.m3u8?md6=KyXzdbrXC9rn_VHgVp_uzw&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skysp1" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="CricHD-v2",Sky Sports Main Event
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadosky1.m3u8?md6=T-wRzpclKYq1n82yWT5GPQ&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadosky1.m3u8?md6=RLApSP3vZg1inHaimXfx_A&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skyfb" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="CricHD-v2",Sky Sports Football
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskyfob.m3u8?md6=Z7NTYs0Cplj5RfqoETKUWA&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskyfob.m3u8?md6=V57JDh4xsY7V2aSmebZd-g&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skyarena" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="CricHD-v2",Sky Sports Arena
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskyare.m3u8?md6=wot0JwiqvmFXZDheCRlLNg&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskyare.m3u8?md6=mC3RgZ3vCgWni5iu_-jGhA&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skysp3" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="CricHD-v2",Sky Sports Action
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadosky3.m3u8?md6=iLMrF1oiN07Rknob-ByN9A&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadosky3.m3u8?md6=bXqYhQc7f80jYUXFicw18Q&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skysp4" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="CricHD-v2",Sky Sports Golf
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskygo.m3u8?md6=nqbqMbcNHO0Ti-1MzwjR9A&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskygo.m3u8?md6=G-nnNV3mR5WqDeHf0xyqgw&expires=1763986297&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skysp5" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="CricHD-v2",Sky Sports Premier League
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskypormi.m3u8?md6=_Gc9rWg6yaA3DJewuDrBtQ&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskypormi.m3u8?md6=eYHd-FSPW_12y_TSboWUQg&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skyspf1" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="CricHD-v2",Sky Sports F1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskyf17.m3u8?md6=e3hTkij5JxAUJIW2XzNF6Q&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskyf17.m3u8?md6=GLkT4_jvEUcQwZe4zk-Mmw&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skymix" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="CricHD-v2",Sky Sports Mix
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskymoxo.m3u8?md6=jZBgEdHPajd9Nf72sFS3iA&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskymoxo.m3u8?md6=gG0hxLp0evFzD0gpGiVbxg&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="skyten" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="CricHD-v2",Sky Sports Tennis
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/dadoskyten.m3u8?md6=zmMCAV3N2wBtOpQOck_1dw&expires=1763984401&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/dadoskyten.m3u8?md6=nQwZgEaXXGyTPfDT5uERlg&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="osncric" tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="CricHD-v2",SuperSport Cricket
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/super2cric.m3u8?md6=eWFVa_1I5ljolNxHSZWh0w&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/super2cric.m3u8?md6=JQBJIZ7ygPLy7fiRvIrtjg&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="supersp9" tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="CricHD-v2",SuperSport Premier League
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/superprem.m3u8?md6=52JU74GnpWhSn1T9QcT3QA&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/superprem.m3u8?md6=n2_6myn0kmnaP_S9viwBig&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="supersp10" tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="CricHD-v2",SuperSport LaLiga
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/superlaliga.m3u8?md6=abGbFY05QA-awtknZA9qbg&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/superlaliga.m3u8?md6=rVjUVdKgCoMbsOPdYs0Jjw&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="supersp8" tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="CricHD-v2",SuperSport Football
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/superspfb.m3u8?md6=SSGqBAghwkZumM9cUTa_GQ&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/superspfb.m3u8?md6=69CjF707EFnO61xcMLdzHw&expires=1763986298&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="supersp3" tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="CricHD-v2",SuperSport Action
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/superspaction.m3u8?md6=ki_wEXrQasdHWMjcIWaVcg&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/superspaction.m3u8?md6=iGSoOfu12AD9HbtKK_2x9g&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="supersp6" tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="CricHD-v2",SuperSport GrandStand
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/supergs.m3u8?md6=IFrpFgj1twB8nk8nI3FBqQ&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/supergs.m3u8?md6=opSCgl0Jkxzcb7ozbL99Rg&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD-v2",TNT Sports 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=5A7MeqEhoGfBHZy4uti7MQ&expires=1763984402&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=99yICrhXbK1KcB4x6XEBZw&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="btsp2" tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="CricHD-v2",TNT Sports 2
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/bbtsop2.m3u8?md6=BavkFCC1dqKUn6jxel3PaA&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/bbtsop2.m3u8?md6=-87AAw0NCzllej0CRKQaww&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="btsp3" tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="CricHD-v2",TNT Sports 3
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/bbtsop3.m3u8?md6=Oe8MgdPwsUj0N9fEmG5ZNA&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/bbtsop3.m3u8?md6=VHSZLGe_ShYxGnkX3ogkQQ&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="btespn" tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="CricHD-v2",TNT Sports 4
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/bbtsop4.m3u8?md6=A5A-e7BC4ib6brhwi_1POw&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/bbtsop4.m3u8?md6=sjFMWvzFjJ9c1_UVu9I4qQ&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="ten1" tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="CricHD-v2",Sony Sports Ten 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/ten_1sd.m3u8?md6=q1ml1IF51XUWORCtnrK_9g&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/ten_1sd.m3u8?md6=6OGVYDNg-UqPPAy5YQvAtA&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="criclife1" tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD-v2",CricLife 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/criclife1.m3u8?md6=xKaJDbXePrFk5L0mmG9CYg&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/criclife1.m3u8?md6=NTzH1DSsSlI0f24X9TgwRg&expires=1763986299&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="criclife2" tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD-v2",CricLife 2
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/criclife2.m3u8?md6=xmRiU4FhFfRAjdVpwnHGAw&expires=1763984403&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/criclife2.m3u8?md6=UCkaSpDwykBhXDb3bKI8Cg&expires=1763986300&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="eurosp1" tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="CricHD-v2",Eurosport 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/eurosp1.m3u8?md6=y3MDo7jKcRZ8oENZsP172g&expires=1763984404&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/eurosp1.m3u8?md6=EPNL9hsnGLGfqOrGuA-YLg&expires=1763986300&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="eurosp2" tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="CricHD-v2",Eurosport 2
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/eurosp2.m3u8?md6=D7ZS3zw4IZCPDvkC3uCWjA&expires=1763984404&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/eurosp2.m3u8?md6=zM3jZWp_hqnhs9_rNI0iBg&expires=1763986300&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD-v2",Premier Sports 1
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/viaplaysp1.m3u8?md6=1Zav3kAK7luJVjREIkR5JA&expires=1763984404&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/viaplaysp1.m3u8?md6=TXzbhP1B-jl469lJqh8yLQ&expires=1763986300&s=NzQuMjM1LjEyNi44Nw==
 
 #EXTINF:-1 tvg-id="viaplaysp2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="CricHD-v2",Premier Sports 2
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
-https://bravo.player0003.com/hls/viaplaysp2.m3u8?md6=7GPnnuAgSlUyGVpF9Pa3lw&expires=1763984404&s=MjAuMTY5LjUwLjM2
+https://bravo.player0003.com/hls/viaplaysp2.m3u8?md6=oJtO2VxTSIUlUwWPI2GsWA&expires=1763986300&s=NzQuMjM1LjEyNi44Nw==
 
