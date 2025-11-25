@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-11-25 20:50:17",
+  "generated_at": "2025-11-25 21:19:25",
   "count": 40,
   "channels": [
     {
       "id": "crich2",
       "name": "Sky Sports Cricket",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadosky2.m3u8?md6=f9j0X9ERWSdQCumzslwcDw&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadosky2.m3u8?md6=Zx5T1NBK0wzOSPZwF9DASw&expires=1764088759&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -16,7 +16,7 @@
       "id": "gtv",
       "name": "T Sports BD",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png",
-      "m3u8": "https://bravo.player0003.com/hls/t_sportsbd.m3u8?md6=edkqXysgsv5u8_YU6GtQ9g&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/t_sportsbd.m3u8?md6=AdK_r7CGpxjA4BW0zc8DSQ&expires=1764088754&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -26,7 +26,7 @@
       "id": "willow",
       "name": "Willow",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png",
-      "m3u8": "https://bravo.player0003.com/hls/dodow1ll.m3u8?md6=yPvVZ7ilYhLVYQSSMB8rlA&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dodow1ll.m3u8?md6=FTIeB00I1Dmc9Smd8Yk6jg&expires=1764088755&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -36,7 +36,7 @@
       "id": "willowextra",
       "name": "Willow Xtra",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willowextra.png",
-      "m3u8": "https://bravo.player0003.com/hls/dodow1llc2.m3u8?md6=88H9WdFSE8BYmRRFmYjEDw&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dodow1llc2.m3u8?md6=WgFNJX7MfQNwXHQ7RdzXww&expires=1764088755&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -46,7 +46,7 @@
       "id": "starsp",
       "name": "Star Sports 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png",
-      "m3u8": "https://bravo.player0003.com/hls/starl1in.m3u8?md6=gx296ro-Vm-v41NgW66t7A&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/starl1in.m3u8?md6=WO5jfIWAIepD5dFh3s1Uuw&expires=1764088754&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -56,7 +56,7 @@
       "id": "starsp3",
       "name": "Star Sports 1 Hindi",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png",
-      "m3u8": "https://bravo.player0003.com/hls/starhindi.m3u8?md6=5imCvspbD3rwrMnLYv6J2A&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/starhindi.m3u8?md6=7OWPuqYwOJ1LlGroVXHemw&expires=1764088756&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -66,7 +66,7 @@
       "id": "starsp2",
       "name": "Star Sports 2",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png",
-      "m3u8": "https://bravo.player0003.com/hls/star2en.m3u8?md6=0Ku9nBBH85HI2TE8gpqprg&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/star2en.m3u8?md6=nK3zNjFVnXKkvfvksjkp5A&expires=1764088755&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -76,7 +76,7 @@
       "id": "starsp3",
       "name": "Star Sports 3",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/starhindi.m3u8?md6=5imCvspbD3rwrMnLYv6J2A&expires=1764087012&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/starhindi.m3u8?md6=7OWPuqYwOJ1LlGroVXHemw&expires=1764088756&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -86,7 +86,7 @@
       "id": "ptvsp",
       "name": "PTV Sports",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png",
-      "m3u8": "https://bravo.player0003.com/hls/ptvpaki.m3u8?md6=RRFzA-BOJG55TTT04szfBw&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/ptvpaki.m3u8?md6=vFGTrsRSv4e6fi_vo0nU2w&expires=1764088755&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -96,7 +96,7 @@
       "id": "asports",
       "name": "A Sports",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png",
-      "m3u8": "https://bravo.player0003.com/hls/asportsd.m3u8?md6=kn4r3IfDFUMF1WvpMg1V8g&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/asportsd.m3u8?md6=vSwEmnkMk-0ORIMlOC4ezg&expires=1764088756&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -106,7 +106,7 @@
       "id": "tensp",
       "name": "Ten Cricket",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png",
-      "m3u8": "https://bravo.player0003.com/hls/tenspk.m3u8?md6=mR9iwFySHdLJ4SBnzM4DmQ&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/tenspk.m3u8?md6=DBYijp7tWvcWYiBI8iAHjQ&expires=1764088756&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -116,7 +116,7 @@
       "id": "geosuper",
       "name": "Geo Super",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/geosp.m3u8?md6=D1yw47dgWNK-J-ZI3yDb1w&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/geosp.m3u8?md6=ovjV_gGyzMGDefYUh_e3uw&expires=1764088758&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -126,7 +126,7 @@
       "id": "astrocric",
       "name": "Astro Cricket",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png",
-      "m3u8": "https://bravo.player0003.com/hls/astrocric.m3u8?md6=aNKtrH-pJecsF260yjoO4A&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/astrocric.m3u8?md6=lqXoNUVDmJ_Tpig4jPjgbA&expires=1764088757&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -136,7 +136,7 @@
       "id": "fox501",
       "name": "Fox Cricket",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/fox501.png",
-      "m3u8": "https://bravo.player0003.com/hls/cf0sp1.m3u8?md6=Ab2Edxl1ZVLb34ENj69TSg&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/cf0sp1.m3u8?md6=-WoGgZmNokvYgKMmLqcB7Q&expires=1764088757&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -146,7 +146,7 @@
       "id": "skysp1",
       "name": "Sky Sports Main Event",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadosky1.m3u8?md6=FY1ydF7u6o0HhJR4E1GY_Q&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadosky1.m3u8?md6=Fh03UPJ14r0nv2RKx1n7og&expires=1764088757&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -156,7 +156,7 @@
       "id": "skyfb",
       "name": "Sky Sports Football",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskyfob.m3u8?md6=DFtKP4nAUCoGosWbfovrlQ&expires=1764087013&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskyfob.m3u8?md6=LwKRpwXpCtnIlZntNBGH6Q&expires=1764088758&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -166,7 +166,7 @@
       "id": "skyarena",
       "name": "Sky Sports Arena",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskyare.m3u8?md6=CX3QWyWWGxC4gdxant8PJQ&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskyare.m3u8?md6=Gv99qEx6Y2h4BsO3Ms6j5g&expires=1764088757&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -176,7 +176,7 @@
       "id": "skysp3",
       "name": "Sky Sports Action",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadosky3.m3u8?md6=EEwq2F2eg--9wVxykdptOg&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadosky3.m3u8?md6=-f1OIpXTRshq-YLloLGN8g&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -186,7 +186,7 @@
       "id": "skysp4",
       "name": "Sky Sports Golf",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskygo.m3u8?md6=DgeWYYNqgJH76nUhO4DqWg&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskygo.m3u8?md6=h5a92HGiZzxwvEdlseGXUA&expires=1764088758&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -196,7 +196,7 @@
       "id": "skysp5",
       "name": "Sky Sports Premier League",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskypormi.m3u8?md6=KJtufdkD76hCTEehTueu8A&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskypormi.m3u8?md6=FdvvoRWm7fL4OvFnFBbwEg&expires=1764088758&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -206,7 +206,7 @@
       "id": "skyspf1",
       "name": "Sky Sports F1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskyf17.m3u8?md6=y6aVIvlKCrK749bq4wGozA&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskyf17.m3u8?md6=CBqr-1BzC5vkZdK6pG7Zdw&expires=1764088760&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -216,7 +216,7 @@
       "id": "skymix",
       "name": "Sky Sports Mix",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskymoxo.m3u8?md6=JliOHZ_W4GgvSurlD_Bw-Q&expires=1764087014&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskymoxo.m3u8?md6=icZINRIhyFeQbWs-D_9pJg&expires=1764088759&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -226,7 +226,7 @@
       "id": "skyten",
       "name": "Sky Sports Tennis",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png",
-      "m3u8": "https://bravo.player0003.com/hls/dadoskyten.m3u8?md6=-WiGpNSqvZu-0uR2c7kcmA&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/dadoskyten.m3u8?md6=9XylIAguxWwiHqsE9BKkdw&expires=1764088760&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -236,7 +236,7 @@
       "id": "osncric",
       "name": "SuperSport Cricket",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/super2cric.m3u8?md6=Kh3fgareLixJXeH_BB1N8Q&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/super2cric.m3u8?md6=B1fXsFkbx0biSzJsUH7aKg&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -246,7 +246,7 @@
       "id": "supersp9",
       "name": "SuperSport Premier League",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png",
-      "m3u8": "https://bravo.player0003.com/hls/superprem.m3u8?md6=RVf5Eo3PntfzNyPAstM-Eg&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/superprem.m3u8?md6=k4jTdP8IOmkXbuo9wFIXUA&expires=1764088762&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -256,7 +256,7 @@
       "id": "supersp10",
       "name": "SuperSport LaLiga",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/superlaliga.m3u8?md6=wyLtkBqTCc33iL6VX_sQnQ&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/superlaliga.m3u8?md6=MVxsbjLIkUyi1VkAksWN6g&expires=1764088760&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -266,7 +266,7 @@
       "id": "supersp8",
       "name": "SuperSport Football",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/superspfb.m3u8?md6=eXbUkhsTy2e_Tr2BrNGUwA&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/superspfb.m3u8?md6=2Hnkjav3tl-gBcl2yTTSPQ&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -276,7 +276,7 @@
       "id": "supersp3",
       "name": "SuperSport Action",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/superspaction.m3u8?md6=O0PnI1TjCsCFSZB4H8pYYw&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/superspaction.m3u8?md6=rjZIhFViKs80b_TvkjIcYQ&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -286,7 +286,7 @@
       "id": "supersp6",
       "name": "SuperSport GrandStand",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/supergs.m3u8?md6=IiiyWuJw_J4jMSWVA70DlQ&expires=1764087015&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/supergs.m3u8?md6=-hnCDVSKWwZ-rzhFMoPOyQ&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -296,7 +296,7 @@
       "id": "btsp1",
       "name": "TNT Sports 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png",
-      "m3u8": "https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=NiMpMOFpj_HwNndAkHkNVw&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/bbtsop1.m3u8?md6=vkuUqIduXB5SIce6n1nIrw&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -306,7 +306,7 @@
       "id": "btsp2",
       "name": "TNT Sports 2",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png",
-      "m3u8": "https://bravo.player0003.com/hls/bbtsop2.m3u8?md6=Kxip5naE0nXFEh9gjWd6ow&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/bbtsop2.m3u8?md6=BShDoiPZ1ERwnyB4pGAA3w&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -316,7 +316,7 @@
       "id": "btsp3",
       "name": "TNT Sports 3",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png",
-      "m3u8": "https://bravo.player0003.com/hls/bbtsop3.m3u8?md6=v69J5LmhpKXBeanQiXY1Fw&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/bbtsop3.m3u8?md6=rY2rNK8xmVxbcS7uEtWOSA&expires=1764088761&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -326,7 +326,7 @@
       "id": "btespn",
       "name": "TNT Sports 4",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png",
-      "m3u8": "https://bravo.player0003.com/hls/bbtsop4.m3u8?md6=zQ3ry4WiR_sBhbxXyEatMA&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/bbtsop4.m3u8?md6=E9usTQRAPURQ1-99gQ9EWA&expires=1764088762&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -336,7 +336,7 @@
       "id": "ten1",
       "name": "Sony Sports Ten 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/ten1udco.m3u8?md6=mXRG-D3MBSsWDCfCPZe8pA&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/ten1udco.m3u8?md6=FhFOQplPK0zg4hI35uzIkA&expires=1764088762&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -346,7 +346,7 @@
       "id": "criclife1",
       "name": "CricLife 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/criclife1.m3u8?md6=-gZA0_oCBp_GR3RdS6e54g&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/criclife1.m3u8?md6=wSmP6rT38IKW2xhwr8KrEw&expires=1764088763&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -356,7 +356,7 @@
       "id": "criclife2",
       "name": "CricLife 2",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/criclife2.m3u8?md6=2Cov3tJ76RnwB1WgbrUGlQ&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/criclife2.m3u8?md6=SU4mfADNS0uLXzuXGZ0O8g&expires=1764088763&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -366,7 +366,7 @@
       "id": "eurosp1",
       "name": "Eurosport 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/eurosp1.m3u8?md6=gt1eDheAf9W_RFXz3KQRng&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/eurosp1.m3u8?md6=krMiPlNvi01VNm3uQXpGkQ&expires=1764088762&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -376,7 +376,7 @@
       "id": "eurosp2",
       "name": "Eurosport 2",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/eurosp2.m3u8?md6=w7Km5GEPyZ5fURh0IC6_qg&expires=1764087016&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/eurosp2.m3u8?md6=9g_vSRUpnLgdCRU9Q3kl8w&expires=1764088763&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -386,7 +386,7 @@
       "id": "viaplaysp1",
       "name": "Premier Sports 1",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/viaplaysp1.m3u8?md6=LoUZuQ-WvBnEtP8r0toYlA&expires=1764087017&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/viaplaysp1.m3u8?md6=B8yks4rdi0ZlOU3RqotVkA&expires=1764088763&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
@@ -396,7 +396,7 @@
       "id": "viaplaysp2",
       "name": "Premier Sports 2",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg",
-      "m3u8": "https://bravo.player0003.com/hls/viaplaysp2.m3u8?md6=YRL20VgSotwFh9UtL7JwEw&expires=1764087017&s=MTcyLjE4NC4yMTMuMjQz",
+      "m3u8": "https://bravo.player0003.com/hls/viaplaysp2.m3u8?md6=n1jC8Qvvnkah4sec1nq96Q&expires=1764088763&s=MTcyLjE4Mi4yMjQuMTYy",
       "headers": {
         "Referer": "https://bhalocast.com/",
         "Origin": "https://bhalocast.com"
