@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04 02:20:46",
-  "count": 40,
+  "generated_at": "2025-12-04 02:54:11",
+  "count": 38,
   "channels": [
     {
       "id": "crich2",
@@ -36,26 +36,6 @@
       "id": "willowextra",
       "name": "Willow Xtra",
       "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willowextra.png",
-      "m3u8": "https://google.com/hls/test.m3u8",
-      "headers": {
-        "Referer": "https://bhalocast.com/",
-        "Origin": "https://bhalocast.com"
-      }
-    },
-    {
-      "id": "starsp",
-      "name": "Star Sports 1",
-      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png",
-      "m3u8": "https://google.com/hls/test.m3u8",
-      "headers": {
-        "Referer": "https://bhalocast.com/",
-        "Origin": "https://bhalocast.com"
-      }
-    },
-    {
-      "id": "starsp3",
-      "name": "Star Sports 1 Hindi",
-      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png",
       "m3u8": "https://google.com/hls/test.m3u8",
       "headers": {
         "Referer": "https://bhalocast.com/",
